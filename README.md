@@ -1,4 +1,4 @@
 # exProject
 first project
 
-# voici le premiêre projet github.
+# voici le premier projet github.
