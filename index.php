@@ -1,10 +1,6 @@
 <div>
-    bonjour Mr HT
-</div>
-
-<div>
-	gaat
+    bonjour HT
 </div>
 <h1>
-	titre
+	titre project
 </h1>
